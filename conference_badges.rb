@@ -14,4 +14,12 @@ badge_maker("Linus)
 => "Hello, my name is Linus."
 badge_maker( Matz)
 => "Hello, my name is Matz."
+def batch_badge_creator
+returns_rooms_1,2,3,4,5,6,7.
+
+"Hello, ____! You'll be assigned room____!"
+each_with_index .
+assign returns_rooms_1,2,3,4,5,6,7.
+assign_rooms.
+end
 # Write your code here.
